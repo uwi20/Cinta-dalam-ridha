@@ -89,6 +89,3 @@ Teruntuk kamu seseorang yang allah ridhoin dan ridho kedua orang tua
             alert('Semoga Allah meridhoi perasaan ini. Jika engkau jodohku, semoga Allah mempermudah jalan kita. 💖');
         }
     </script>
-
-</body>
-</html>
