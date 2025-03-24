@@ -1,7 +1,7 @@
 # Cinta-dalam-ridha
 Teruntuk kamu seseorang yang allah ridhoin dan ridho kedua orang tua
 
-<!DOCTYPE html>
+
 <html lang="id">
 <head>
     <meta charset="UTF-8">
